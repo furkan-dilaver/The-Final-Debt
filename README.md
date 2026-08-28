@@ -1,6 +1,11 @@
 # The Final Debt
 
-A cinematic crime-thriller story game being developed in Unreal Engine.
+> A cinematic crime-thriller story game developed in Unreal Engine 5.
+
+**Status:** Pre-production  
+**Developer:** Solo Developer  
+**Engine:** Unreal Engine 5  
+**Genre:** Story-driven Crime Thriller
 
 ## About the Game
 
