@@ -26,6 +26,14 @@ The player must survive dangerous missions, uncover the truth about Elias' past,
 - Crime-thriller atmosphere
 - Unreal Engine cinematics
 
+
+## Screenshots
+
+Screenshots and gameplay footage will be added during development.
+
+## Development Log
+
+See [DEVLOG.md](DEVLOG.md) for development progress.
 ## Current Status
 
 Pre-production / Early development
