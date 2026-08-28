@@ -48,3 +48,17 @@ Solo developer project.
 - Build cinematic sequences
 - Create vertical slice
 - Polish and optimize
+- 
+- ## Development Progress
+
+- [x] Project concept
+- [x] Story outline
+- [x] GitHub repository
+- [ ] Unreal project setup
+- [ ] Character controller
+- [ ] Driving prototype
+- [ ] Chapter 1 environment
+- [ ] Dialogue system
+- [ ] Enemy AI
+- [ ] Cinematic sequences
+- [ ] Vertical slice
